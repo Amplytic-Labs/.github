@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="amplytic-banner.jpeg" width="100%" alt="Amplytic Banner" />
+<img src="../amplytic-banner.jpeg" width="100%" alt="Amplytic Banner" />
 
 # **Amplytic**
 ### **Beyond Visuals. Built with Vision.**
@@ -32,5 +32,5 @@ We believe in giving back to the community. We are actively developing and publi
 ---
 
 <div align="center">
-  <img src="amplytic-light.svg" width="120px" alt="Amplytic Logo" />
+  <img src="../amplytic-light.svg" width="120px" alt="Amplytic Logo" />
 </div>
